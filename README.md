@@ -41,7 +41,7 @@
 ## **Preview**
 
 <div align='center'>
-<img src='./images/previewsite-product-preview-card-component.png' alt='Product Preview Card Component solution preview image'>
+<img src='./images/previewsite-product-preview.png' alt='Product Preview Card Component solution preview image'>
 </div>
 
 
